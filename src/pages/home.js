@@ -24,7 +24,7 @@ class Home extends React.Component {
     <div id="sliderDouble" className="slider slider-primary"></div>
 
     <div className="section section-download" id="#download-section" data-background-color="black">
-        <img src="assets/img/path1.png" alt="Card" className="path" />
+        <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/path1.png" alt="Card" className="path" />
     <div className="main">
 
     <div className="section">
@@ -36,7 +36,7 @@ class Home extends React.Component {
                 <a href="./docs/1.0/components/alerts.html" className="btn btn-warning mt-4">Get Full Details</a>
               </div>
               <div className="col-lg-6 order-md-2 pt-1">
-              <img className="d-block w-100" src="assets/img/denys.jpg" alt="First slide" />
+              <img className="d-block w-100" src="https://github.com/championuz/pactech/blob/main/public/assets/img/denys.jpg" alt="First slide" />
               </div>
             </div>
           </div>
@@ -49,7 +49,7 @@ class Home extends React.Component {
               <div className="col-sm-4 mt-5 mt-sm-0">
                 <small className="d-block text-uppercase font-weight-bold mb-2">Website Design & Development</small>
                 <div className="background-new round-section shadow-lg p-3">
-                <img src="assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
+                <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
                                 <p className="pt-2"> These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p> <button className="btn btn-solid">Get Service</button>
 
                 </div>
@@ -57,7 +57,7 @@ class Home extends React.Component {
               <div className="col-sm-4 mt-5 mt-sm-0">
                 <small className="d-block text-uppercase font-weight-bold mb-2">Mobile Application Design & Development</small>
                  <div className="background-new round-section shadow-lg p-3">
-                <img src="assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
+                <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
                                 <p className="pt-2"> These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p> <button className="btn btn-solid">Get Service</button>
 
                 </div>
@@ -65,7 +65,7 @@ class Home extends React.Component {
               <div className="col-sm-4 mt-5 mt-sm-0">
                 <small className="d-block text-uppercase font-weight-bold mb-2">Tech Consult/General Web Solutions</small>
                  <div className="background-new round-section shadow-lg p-3">
-                <img src="assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
+                <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
                                 <p className="pt-2"> These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p> <button className="btn btn-solid">Get Service</button>
 
                 </div>
@@ -78,7 +78,7 @@ class Home extends React.Component {
               <div className="col-sm-4 mt-sm-0">
                 <small className="d-block text-uppercase font-weight-bold mb-2">Sales Promotion & Traffic Generation</small>
                  <div className="background-new round-section shadow-lg p-3">
-                <img src="assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
+                <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
                                 <p className="pt-2"> These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p> <button className="btn btn-solid">Get Service</button>
 
                 </div>
@@ -87,7 +87,7 @@ class Home extends React.Component {
 
                 <small className="d-block text-uppercase font-weight-bold mb-2">Funnel Design & Creation</small>
                  <div className="background-new round-section shadow-lg p-3">
-                <img src="assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
+                <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
                                 <p className="pt-2"> These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p> <button className="btn btn-solid">Get Service</button>
 
                 </div>
@@ -95,7 +95,7 @@ class Home extends React.Component {
               <div className="col-sm-4 mt-5 mt-sm-0">
                 <small className="d-block text-uppercase font-weight-bold mb-2">Content Creation & Marketing</small>
                 <div className="background-new round-section shadow-lg p-3">
-                <img src="assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
+                <img src="https://github.com/championuz/pactech/blob/main/public/assets/img/lora.jpg" alt="Raised" className="img-fluid round-section" style={{width: "150px;"}} />
                                 <p className="pt-2"> These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.</p> <button className="btn btn-solid">Get Service</button>
 
                 </div>
