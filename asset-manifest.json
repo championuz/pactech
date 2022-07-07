@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d7a4ddf7.js",
-    "static/js/787.19dd7862.chunk.js": "/static/js/787.19dd7862.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d7a4ddf7.js.map": "/static/js/main.d7a4ddf7.js.map",
-    "787.19dd7862.chunk.js.map": "/static/js/787.19dd7862.chunk.js.map"
+    "main.css": "/pactech/static/css/main.073c9b0a.css",
+    "main.js": "/pactech/static/js/main.dd878559.js",
+    "static/js/787.19dd7862.chunk.js": "/pactech/static/js/787.19dd7862.chunk.js",
+    "index.html": "/pactech/index.html",
+    "main.073c9b0a.css.map": "/pactech/static/css/main.073c9b0a.css.map",
+    "main.dd878559.js.map": "/pactech/static/js/main.dd878559.js.map",
+    "787.19dd7862.chunk.js.map": "/pactech/static/js/787.19dd7862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d7a4ddf7.js"
+    "static/js/main.dd878559.js"
   ]
 }
