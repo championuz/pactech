@@ -1,0 +1,33 @@
+.background-new {
+    background: #32325d;
+    box-shadow: none !important;
+  transform: translateY(1px) !important;
+  transition: all .15s ease;
+}
+
+.round-section {
+    border-radius: 15px !important;
+}
+
+.negative-b-margin-1 {
+    margin-bottom: -10px !important;
+}
+
+@media (max-width: 500px) {
+    .negative-b-margin-2 {
+        margin-bottom: -20px !important;
+    }
+}
+.btn-solid {
+    background: #faaf37;
+    background-image: -webkit-linear-gradient(to bottom left, #faaf37, #966921, #faaf37);
+    background-image: -o-linear-gradient(to bottom left, #faaf37, #966921, #faaf37);
+    background-image: -moz-linear-gradient(to bottom left, #faaf37, #966921, #faaf37);
+    background-image: linear-gradient(to bottom left, #faaf37, #966921, #faaf37);
+    background-size: 210% 210%;
+    background-position: top right;
+    background-color: #faaf37;
+    transition: all 0.15s ease;
+    box-shadow: none;
+    color: #ffffff;
+  }
