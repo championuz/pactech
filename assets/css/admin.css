@@ -31,3 +31,15 @@
     box-shadow: none;
     color: #ffffff;
   }
+
+  .hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 0;
+    width: 100%;
+    border-top: 0.2rem solid rgba(255, 255, 255, 0.1) !important;
+  }
+  .index-page .page-header-1 {
+    height: auto !important;
+    overflow: hidden !important;
+  }

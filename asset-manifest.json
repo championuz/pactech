@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pactech/static/css/main.073c9b0a.css",
-    "main.js": "/pactech/static/js/main.450a7dd5.js",
+    "main.js": "/pactech/static/js/main.73a4d654.js",
     "static/js/787.19dd7862.chunk.js": "/pactech/static/js/787.19dd7862.chunk.js",
     "index.html": "/pactech/index.html",
     "main.073c9b0a.css.map": "/pactech/static/css/main.073c9b0a.css.map",
-    "main.450a7dd5.js.map": "/pactech/static/js/main.450a7dd5.js.map",
+    "main.73a4d654.js.map": "/pactech/static/js/main.73a4d654.js.map",
     "787.19dd7862.chunk.js.map": "/pactech/static/js/787.19dd7862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.450a7dd5.js"
+    "static/js/main.73a4d654.js"
   ]
 }
