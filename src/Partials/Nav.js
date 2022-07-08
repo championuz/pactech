@@ -36,27 +36,27 @@ export default class Nav extends Component {
                 </div>
                 <ul className="navbar-nav">
                 <li className=" nav-item">
-                    <NavLink exact to="/" className="nav-link">
+                    <NavLink exact to="/pactech" className="nav-link">
                       <i className="fa fa-cogs d-lg-none d-xl-none"></i> Home
                     </NavLink>
                   </li>
                 <li className=" nav-item">
-                    <NavLink exact to="/portfolio" className="nav-link">
+                    <NavLink exact to="/pactech/portfolio" className="nav-link">
                       <i className="fa fa-cogs d-lg-none d-xl-none"></i> Portfolio
                     </NavLink>
                   </li>
                 <li className=" nav-item">
-                    <NavLink exact to="/store" className="nav-link">
+                    <NavLink exact to="/pactech/store" className="nav-link">
                       <i className="fa fa-cogs d-lg-none d-xl-none"></i> Profits Store
                     </NavLink>
                   </li>
                 <li className=" nav-item">
-                    <NavLink exact to="/about" className="nav-link">
+                    <NavLink exact to="/pactech/about" className="nav-link">
                       <i className="fa fa-cogs d-lg-none d-xl-none"></i> About
                     </NavLink>
                   </li>
                 <li className=" nav-item">
-                    <NavLink exact to="/contact" className="nav-link">
+                    <NavLink exact to="/pactech/contact" className="nav-link">
                       <i className="fa fa-cogs d-lg-none d-xl-none"></i> Contact
                     </NavLink>
                   </li>

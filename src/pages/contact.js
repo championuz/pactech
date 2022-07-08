@@ -6,6 +6,7 @@ class contact extends React.Component {
     return (
         <div>
         <Home />
+        
           </div>
           )
   };
