@@ -99,7 +99,7 @@ export default class Nav extends Component {
                   </li> */}
                   <li className="nav-item">
                     <a className="nav-link btn btn-solid d-none d-lg-block" href="https://demos.creative-tim.com/blk-design-system/docs/1.0/getting-started/overview.html" onClick="scrollToDownload()">
-                       Book a Call <i className="tim-icons icon-cart"></i>
+                       Book a Call
                     </a>
                   </li>
                 </ul>

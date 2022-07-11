@@ -106,6 +106,7 @@ class Home extends React.Component {
             </div>
           </div>
         </div>
+
     <div id="sliderRegular" className="slider"></div><br/><br/><br/><br/>
 
    
