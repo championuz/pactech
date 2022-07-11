@@ -36,7 +36,7 @@ export default class Nav extends Component {
                 </div>
                 <ul className="navbar-nav">
                 <li className=" nav-item">
-                    <NavLink exact to="/pactech" className="nav-link">
+                    <NavLink exact to="/" className="nav-link">
                       <i className="fa fa-cogs d-lg-none d-xl-none"></i> Home
                     </NavLink>
                   </li>

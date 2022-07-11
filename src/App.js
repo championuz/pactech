@@ -17,7 +17,7 @@ function App() {
       <div>
       <Nav />
       <Routes>
-        <Route exact path="/pactech" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
         <Route exact path="/pactech/about" element={<About />} />
         <Route exact path="/pactech/contact" element={<Contact />} />
         <Route exact path="/pactech/portfolio" element={<Portfolio />} />
